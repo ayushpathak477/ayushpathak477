@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushpathak477" alt="ayushpathak477" /></a> </p>
 
-- 🔭 I’m currently working on **Survival Prediction Model for Flight Crashes**
-
 - 🌱 I’m currently learning **Cloud Computing, Deep Learning**
 
 - 💬 Ask me about **Machine Learning, Data Analysis**
